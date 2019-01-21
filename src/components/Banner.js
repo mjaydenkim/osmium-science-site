@@ -8,7 +8,7 @@ const Banner = (props) => (
             </header>
             <div className="content">
                 <p>A blog created by Matthew Kim.<br />
-                and released under the Creative Commons.</p>
+                Built with Gatsby and React</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
