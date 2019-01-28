@@ -17,7 +17,7 @@ const Generic = (props) => (
                     <header className="major">
                         <h1>Generic</h1>
                     </header>
-                    <span className="image main"><img src={aboutme} alt="" /></span>
+                    <span className="image main"><img src={pic11} alt="" /></span>
                     <iframe src="https://docs.google.com/a/lasdk8.org/document/d/e/2PACX-1vQSKgVJhB4w60UxHLgyk8CQwU44np3WkOT6tDHM8gQ_BAlSH_YnhH7N6umfYxBeSF8dLNgDYTT8VNlZ/pub?embedded=true" width='800' height='800'></iframe>
                 </div>
             </section>
